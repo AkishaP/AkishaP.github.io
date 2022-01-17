@@ -1,0 +1,126 @@
+body{font-family:Bodoni MT;}
+
+h1{
+font-weight:bold;
+font-size:40px;}
+
+.button{
+margin:-70px 270px;
+position:fixed;
+left:900px;}
+
+.tagline{
+font-size:20px;
+font-weight:bold;
+font-style:italic;}
+
+.topbar{
+position:fixed;
+top:0px;}
+
+.fb {
+background: url('../images/icon.png') no-repeat 0px 0px;
+width: 33px;
+height: 33px;
+}
+
+.twitter {
+background: url('../images/icon.png') no-repeat -32px 0px;
+width: 33px;
+height: 33px;
+}
+
+.insta {
+background: url('../images/icon.png') no-repeat -64px 0px;
+width: 33px;
+height: 33px;
+}
+.Marnie {
+background: url('../images/shaneinfo.png') no-repeat -65px 0px;
+width: 33px;
+height: 33px;
+}
+.Jas {
+background: url('../images/shaneinfo.png') no-repeat 0px -33px;
+width: 33px;
+height: 33px;
+}
+.Beer {
+background: url('../images/shaneinfo.png') no-repeat 0px 0px;
+width: 33px;
+height: 33px;
+}
+.HPepper {
+background: url('../images/shaneinfo.png') no-repeat -33px 0px;
+width: 33px;
+height: 33px;
+}
+.PepperP {
+background: url('../images/shaneinfo.png') no-repeat -33px -33px;
+width: 33px;
+height: 33px;
+}
+.Pizza {
+background: url('../images/shaneinfo.png') no-repeat -66px -33px;
+width: 33px;
+height: 33px;
+}
+.shane {
+background: url('../images/shanesprite.png') no-repeat 0px 0px;
+width: 200px;
+height: 200px;
+}
+.neutral {
+background: url('../images/shanesprite.png') no-repeat -200px 0px;
+width: 200px;
+height: 200px;
+}
+.happy {
+background: url('../images/shanesprite.png') no-repeat -400px 0px;
+width: 200px;
+height: 200px;
+}
+.concerned {
+background: url('../images/shanesprite.png') no-repeat 0px -200px;
+width: 200px;
+height: 200px;
+}
+.annoyed {
+background: url('../images/shanesprite.png') no-repeat -200px -200px;
+width: 200px;
+height: 200px;
+}
+.charlie {
+background: url('../images/shanesprite.png') no-repeat -400px -200px;
+width: 200px;
+height: 200px;
+}
+.blushing {
+background: url('../images/shanesprite.png') no-repeat 0px -400px;
+width: 200px;
+height: 200px;
+}
+.pleased {
+background: url('../images/shanesprite.png') no-repeat -200px -400px;
+width: 200px;
+height: 200px;
+}
+.surprised {
+background: url('../images/shanesprite.png') no-repeat -400px -400px;
+width: 200px;
+height: 200px;
+}
+
+a:link{
+color:blue;
+}
+a:visited{
+background-color:#99DDFF;
+color:black;
+}
+a:hover{
+background-color:#99DDFF;
+color:black;}
+a:active{
+background-color:#FFFFE6;
+color:#99DDFF;}

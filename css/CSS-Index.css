@@ -1,0 +1,50 @@
+body{font-family:Bodoni MT;}
+
+h1{
+font-weight:bold;
+font-size:40px;}
+
+.desc{
+text-align:justify;
+font-size:20px;}
+
+.button{
+margin:-70px 270px;
+position:fixed;
+left:900px;}
+
+.topbar{
+position:fixed;
+top:0px;}
+
+.fb {
+background: url('../images/icon.png') no-repeat 0px 0px;
+width: 33px;
+height: 33px;
+}
+
+.twitter {
+background: url('../images/icon.png') no-repeat -32px 0px;
+width: 33px;
+height: 33px;
+}
+
+.insta {
+background: url('../images/icon.png') no-repeat -64px 0px;
+width: 33px;
+height: 33px;
+}
+
+a:link{
+color:blue;
+}
+a:visited{
+background-color:#99DDFF;
+color:black;
+}
+a:hover{
+background-color:#99DDFF;
+color:black;}
+a:active{
+background-color:#FFFFE6;
+color:#99DDFF;}

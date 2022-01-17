@@ -1,0 +1,41 @@
+body{font-family:Bodoni MT;}
+
+h1{
+font-weight:bold;
+font-size:40px;}
+
+.desc{
+text-align:justify;
+font-size:20px;}
+
+.button{
+margin:-70px 270px;
+position:fixed;
+left:900px;}
+
+.tagline{
+font-size:30px;
+font-weight:bold;
+font-style:italic;}
+
+.topbar{
+position:fixed;
+top:0px;}
+
+.fb {
+background: url('../images/icon.png') no-repeat 0px 0px;
+width: 33px;
+height: 33px;
+}
+
+.twitter {
+background: url('../images/icon.png') no-repeat -32px 0px;
+width: 33px;
+height: 33px;
+}
+
+.insta {
+background: url('../images/icon.png') no-repeat -64px 0px;
+width: 33px;
+height: 33px;
+}
