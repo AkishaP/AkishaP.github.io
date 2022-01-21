@@ -1,5 +1,15 @@
 body{font-family:Bodoni MT;}
 
+.title{
+border: #FFFFCC solid 2px;
+border-radius: 20px 20px 20px 20px;
+background-color:#99DDFF;
+height:50px;
+width:100px;
+margin-left:45px;
+transform: skewX(-10deg);
+}
+
 h1{
 font-weight:bold;
 font-size:40px;}
@@ -7,7 +17,9 @@ font-size:40px;}
 .button{
 margin:-70px 270px;
 position:fixed;
-left:900px;}
+left:900px;
+border-radius: 10px 10px 10px 10px;
+}
 
 .tagline{
 font-size:20px;
@@ -133,3 +145,13 @@ color:black;}
 a:active{
 background-color:#FFFFE6;
 color:#99DDFF;}
+
+.SpouseActions {
+background: url('../images/Shane_Spouse.png') no-repeat 0px 0px;
+width: 173px;
+height: 278px;
+  animation: varName 1s steps(3) infinite;
+}
+@keyframes varName{
+	from{background-position-x:0px;}
+	to{background-position-x:-522px;}

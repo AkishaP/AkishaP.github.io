@@ -1,8 +1,19 @@
 body{font-family:Bodoni MT;}
 
+div h1{
+border: #FFFFCC solid 2px;
+border-radius: 20px 20px 20px 20px;
+background-color:#99DDFF;
+height:50px;
+width:170px;
+margin-left:45px;
+transform: skewX(-10deg);
+}
+
 h1{
 font-weight:bold;
-font-size:40px;}
+font-size:40px;
+}
 
 .desc{
 text-align:justify;
@@ -11,7 +22,9 @@ font-size:20px;}
 .button{
 margin:-70px 270px;
 position:fixed;
-left:900px;}
+left:900px;
+border-radius: 10px 10px 10px 10px;
+}
 
 .tagline{
 font-size:23px;
@@ -62,3 +75,92 @@ color:black;}
 a:active{
 background-color:#FFFFE6;
 color:#99DDFF;}
+
+.Willy	 {
+background: url('../images/FishStuff.png') no-repeat -50px -100px;
+width: 50px;
+height: 50px;
+border-radius: 20px 20px 20px 20px;
+}
+
+.Trout	 {
+background: url('../images/FishStuff.png') no-repeat 0px -100px;
+width: 50px;
+height: 50px;
+}
+.Crabpot	 {
+background: url('../images/FishStuff.png') no-repeat -100px -50px;
+width: 50px;
+height: 50px;
+}
+.Pan	 {
+background: url('../images/FishStuff.png') no-repeat -50px -50px;
+width: 50px;
+height: 50px;
+border-radius: 20px 20px 20px 20px;
+}
+.Bamboo	 {
+background: url('../images/FishStuff.png') no-repeat 0px 0px;
+width: 50px;
+height: 50px;
+}
+.Fiberglass	 {
+background: url('../images/FishStuff.png') no-repeat -100px 0px;
+width: 50px;
+height: 50px;
+}
+.Iridium	 {
+background: url('../images/FishStuff.png') no-repeat 0px -50px;
+width: 50px;
+height: 50px;
+}
+.Training	 {
+background: url('../images/FishStuff.png') no-repeat -50px 0px;
+width: 50px;
+height: 50px;
+}
+.Bait	 {
+background: url('../images/Bobbers.png') no-repeat 0px 0px;
+width: 50px;
+height: 50px;
+}
+.Hook	 {
+background: url('../images/Bobbers.png') no-repeat -50px 0px;
+width: 50px;
+height: 50px;
+}
+.Cork	 {
+background: url('../images/Bobbers.png') no-repeat -100px 0px;
+width: 50px;
+height: 50px;
+}
+.DSpinner	 {
+background: url('../images/Bobbers.png') no-repeat 0px -50px;
+width: 50px;
+height: 50px;
+}
+.Lead	 {
+background: url('../images/Bobbers.png') no-repeat -50px -50px;
+width: 50px;
+height: 50px;
+}
+.Magnet	 {
+background: url('../images/Bobbers.png') no-repeat -100px -50px;
+width: 50px;
+height: 50px;
+}
+.Spinner	 {
+background: url('../images/Bobbers.png') no-repeat 0px -100px;
+width: 50px;
+height: 50px;
+}
+.Trap	 {
+background: url('../images/Bobbers.png') no-repeat -50px -100px;
+width: 50px;
+height: 50px;
+}
+.Treasure	 {
+background: url('../images/Bobbers.png') no-repeat -100px -100px;
+width: 50px;
+height: 50px;
+}

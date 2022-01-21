@@ -11,7 +11,9 @@ font-size:20px;}
 .button{
 margin:-70px 270px;
 position:fixed;
-left:900px;}
+left:900px;
+border-radius: 10px 10px 10px 10px;
+}
 
 .topbar{
 position:fixed;
